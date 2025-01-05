@@ -7,7 +7,6 @@
 
 char  productName[21];
 float unitPrice; 
-int   quantity;
 float taxRate;
 float subtotal;
 float taxAmount;
