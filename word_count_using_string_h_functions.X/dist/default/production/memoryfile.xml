@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/word_count_using_string_h_functions.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>16384</length>
+      <used>100</used>
+      <free>16284</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>131298</length>
+      <used>6627</used>
+      <free>124671</free>
+    </memory>
+  </executable>
+</project>
